@@ -1,0 +1,150 @@
+@font-face {
+    font-family: cubano_reg;
+    src: url(Cubano-Regular.otf);
+}
+
+@font-face {
+    font-family: Brandon_reg;
+    src: url(Brandon_reg.otf);
+}
+@font-face {
+    font-family: Brandon_med;
+    src: url(Brandon_med.otf);
+}@font-face {
+    font-family: Brandon_bld;
+    src: url(Brandon_bld.otf);
+}@font-face {
+    font-family: Brandon_light;
+    src: url(Brandon_light.otf);
+}
+header{
+    background-image: url(../images/bg.jpg);
+    color: white;
+}
+.header_nav{
+    padding: 40px 130px !important;
+}
+.custom_nav li a{
+   color: white !important;
+    font-family: Brandon_med;
+    font-size: 18px;
+    margin: 0 10px;
+}
+.cubano_reg{
+    font-family: cubano_reg;
+    font-size: 24.84px;
+    margin: 0 10px;
+}
+.custom_header_body{
+    padding: 80px 0;
+}
+.custom_header_body p{
+    font-family: Brandon_light;
+    font-size: 32px;
+}
+.custom_header_body h1 {
+    font-family: Brandon_bld;
+    font-size: 66px;
+}
+.custom_header_body button{
+    font-family: Brandon_bld;
+    font-size: 23px;
+    padding: 10px 58px;
+margin: 65px 0;
+}
+
+
+/*This is header end*/
+
+
+/*this is body start*/
+.bold{
+    font-family: Brandon_bld;
+    font-weight: 800;
+}
+.body1{
+    
+}
+.body1 h1{
+    font-size: 60px;
+    font-family: Brandon_light;
+    font-weight: 400;
+}
+.body1 p{
+    font-size: 18px;
+    font-family: Brandon_reg;
+    padding: 8px 1px;
+}
+.padding{
+    padding: 50px 70px !important;
+}
+
+/*this is body content*/
+.content h1{
+    font-size: 22px;
+    font-family: Brandon_med;
+    font-weight: 800;
+}
+.content p{
+    font-size: 18px;
+    font-family: Brandon_reg;
+    font-weight: 400;
+}
+.padding1{
+    padding: 20px 0px !important;
+}
+/*this is body awesome clints*/
+.awesome h1{
+    font-family: Brandon_light;
+    font-size: 60px;
+}
+.awesome p{
+    font-family: Brandon_reg;
+    font-size: 22px;
+}
+/*this is logo side*/
+.padding2{
+    padding: 50px 120px !important;
+}
+
+/*this is team*/
+#team{
+    background-color: #111111;
+    color: #ffffff;
+}
+.team h1{
+    font-family: Brandon_light;
+    font-size: 60px;
+}
+.team p{
+    font-family: Brandon_reg;
+    font-weight: 400;
+    font-size: 22px;
+}
+.team1 p{
+    font-family: Brandon_reg;
+    font-weight: 400;
+    font-size: 20px;
+}
+/*this is footer start*/
+footer{
+    background-color: #7690c5;
+    color: white;
+}
+.team3 p{
+    font-size: 18px;
+    font-family: Brandon_reg;
+    font-weight: 400;
+}
+.team3 h1{
+    font-family: Brandon_light;
+    font-size: 60px;
+}
+.pm{
+    padding: 12px 10px !important;
+    margin: 25px 0 !important;
+}.pm3{
+    padding: 30px 10px !important;
+    margin: 5px 0 !important;
+}
+
